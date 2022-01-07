@@ -1,6 +1,6 @@
-(footprint "C_0603_M" (version 20211014) (generator pcbnew)
+(footprint "R_0603_M" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D8C514)
+  (tedit 61D8C7C9)
   (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)
@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 84d4e166-b429-409a-ab37-c6a10fd82ff5)
   )
-  (fp_text value "C_0603_M" (at 0 1.43) (layer "F.Fab")
+  (fp_text value "R_0603_M" (at 0 1.43) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e87738fc-e372-4c48-9de9-398fd8b4874c)
   )
@@ -28,7 +28,7 @@
   (fp_line (start 0.8 -0.4) (end 0.8 0.4) (layer "F.Fab") (width 0.1) (tstamp f5c43e09-08d6-4a29-a53a-3b9ea7fb34cd))
   (pad "1" smd rect (at -0.775 0) (size 1.05 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 363945f6-fbef-42be-99cf-4a8a48434d92))
   (pad "2" smd rect (at 0.775 0) (size 1.05 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0cc9bf07-55b9-458f-b8aa-41b2f51fa940))
-  (model "C:/Users/50232/Documents/KiCad/Librerias/Tesla_KiCad/3D Models/C_0603_1608Metric.wrl"
+  (model "C:/Users/50232/Documents/KiCad/Librerias/Tesla_KiCad/3D Models/R_0603_1608Metric.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
