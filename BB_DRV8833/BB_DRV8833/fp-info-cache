@@ -1,4 +1,4 @@
-22982351554639
+24625804474175
 Footprint
 C_0603_M
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
@@ -48,6 +48,13 @@ DRV8833PW
 0
 16
 16
+Footprint
+JST_S4B-PH-K-S(LF)(SN)
+
+
+0
+4
+4
 Footprint
 R_0603_M
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
